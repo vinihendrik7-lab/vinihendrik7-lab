@@ -1,16 +1,16 @@
-## EAE CRIAS👽
-adoro animes
-<!--
-**vinihendrik7-lab/vinihendrik7-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# olá, me chamo vínicius hendrik! ✌️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## sobre mim👨‍💻
+curso ciências da computação estou atualmente no segundo período
+
+## 🛠 Skills
+phyton, HTML, CSS
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-hendrik-1511b7437/)
+
+
